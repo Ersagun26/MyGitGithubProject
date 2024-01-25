@@ -7,7 +7,11 @@ public class AtmApp {
         //versiyon2
 
         System.out.println("Learn java earn money");
-        //versiyon03git commit -am"version
+        //versiyon03
+        System.out.println("Java öğrenmek kolay");
+        //version04
+
+
 
 
 
