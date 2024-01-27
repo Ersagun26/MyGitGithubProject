@@ -10,6 +10,7 @@ public class AtmApp {
         //versiyon03
         System.out.println("Java öğrenmek kolay");
         //version04
+        //remote repoda degisiklik yaptım
 
 
 
